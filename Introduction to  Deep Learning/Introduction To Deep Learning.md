@@ -37,3 +37,4 @@ Today, we enjoy the benefits of algorithms and strategies that we did not have 2
 There are many other interesting facts and points that make deep learning an exciting area and justify the writing of this book. I hope you are as excited as we all are and begin reading this book knowing that we are going to code some of the most exciting and incredible neural networks of our time. Our ultimate purpose will be to make deep neural networks that can generalize.
 
 ```Generalization is the ability of a neural network to correctly make predictions on data that has never been seen before. This is the ultimate purpose of all machine and deep learning practitioners, and requires a great deal of skill and knowledge of the data.```
+
