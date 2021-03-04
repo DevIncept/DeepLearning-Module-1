@@ -1,7 +1,7 @@
 # DeepLearning-Module-1
 
 
-1. [Part1: Introduction to Deep Learning](Introduction-to-Deep-Learning/Introduction-To-Deep-Learning.md)
+1. [Part1: Introduction to Deep Learning](Introduction-to-Deep-Learning/Introduction-to-Deep-Learning.md)
 
 2. [Part2: Deep Learning Computations-I](RojaTV_DL_DLComputations/Layers-and-Blocks.md)
 
